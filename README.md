@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with customizing Mathquill / using Mathquill with React
 - 💬 Ask me about my problem solving process!
 - ⚡ Fun fact: Cows have best friends
--->
